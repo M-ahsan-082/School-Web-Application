@@ -1,0 +1,8 @@
+{
+  "name": "EduStream Pro - School Management & LMS",
+  "description": "A comprehensive school management system and LMS with role-based dashboards, AI-powered study assistance, and seamless educational workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
